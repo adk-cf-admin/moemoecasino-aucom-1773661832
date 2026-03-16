@@ -1,0 +1,19 @@
+{
+  "name": "MoeMoe",
+  "short_name": "MoeMoe",
+  "theme_color": "",
+  "background_color": "#111116",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773661149-favicon-eyhbigrr.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
